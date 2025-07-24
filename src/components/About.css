@@ -1,0 +1,25 @@
+.about {
+  padding: 4rem 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  background: #0f0f0f;
+}
+.about-text {
+  flex: 1;
+  max-width: 600px;
+}
+.about-image {
+  flex: 1;
+}
+.about-image img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+@media (max-width: 768px){
+  .about{
+    display: flex;
+    flex-direction: column-reverse;
+  }
+}
