@@ -8,4 +8,10 @@
   <body>
     <div id="root"></div>
   </body>
+  <script>
+  // 🔁 Redirige automatiquement vers la route "#/" si on arrive sur /
+  if (!location.hash) {
+    location.replace(location.pathname + location.search + '#/');
+  }
+</script>
 </html>

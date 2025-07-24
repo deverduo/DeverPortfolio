@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/DeverPortfolio/static/css/main.0e89ebb7.css",
+    "main.js": "/DeverPortfolio/static/js/main.8ed98271.js",
+    "static/media/sergec.PNG": "/DeverPortfolio/static/media/sergec.37fe437d1c59d958ded0.PNG",
+    "static/media/40BFB180-2346-426A-AC8E-67A8217748E6.PNG": "/DeverPortfolio/static/media/40BFB180-2346-426A-AC8E-67A8217748E6.1e359ea4fe34dd8dde49.PNG",
+    "static/media/coffee.PNG": "/DeverPortfolio/static/media/coffee.1f9fea73ad9576febba8.PNG",
+    "static/media/AFE3FD61-D9B9-492A-A196-81AED763BBE0.PNG": "/DeverPortfolio/static/media/AFE3FD61-D9B9-492A-A196-81AED763BBE0.2a2546c2ca700cde3684.PNG",
+    "static/media/zenbrush1.PNG": "/DeverPortfolio/static/media/zenbrush1.4af658e10b450e11478b.PNG",
+    "static/media/IMG_1656.PNG": "/DeverPortfolio/static/media/IMG_1656.fca2d9bb703a801d810e.PNG",
+    "static/media/pharmacy.jpg": "/DeverPortfolio/static/media/pharmacy.10350946ff68a604183f.jpg",
+    "static/media/zenbrush2.PNG": "/DeverPortfolio/static/media/zenbrush2.54642c7ffec4fc700fff.PNG",
+    "index.html": "/DeverPortfolio/index.html",
+    "main.0e89ebb7.css.map": "/DeverPortfolio/static/css/main.0e89ebb7.css.map",
+    "main.8ed98271.js.map": "/DeverPortfolio/static/js/main.8ed98271.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e89ebb7.css",
+    "static/js/main.8ed98271.js"
+  ]
+}

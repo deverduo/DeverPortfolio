@@ -38,9 +38,9 @@ export default function Contact() {
       </form>
 
       <div className="contact-info">
-        <p>📞 +213 5 60 04 60 28</p>
-        <p>📞 +213 5 42 69 63 99</p>
-        <p>📧 deverenterprise@gmail.com</p>
+        <p ><a href="tel:+213560046028">📞 +213 5 60 04 60 28</a></p>
+        <p> <a href="tel:+213542696399">📞 +213 5 42 69 63 99 </a></p>
+        <p> <a href="mailto:deverenterprise@gamil.com">📧 deverenterprise@gmail.com</a></p>
         <p><img src={Insta}></img><a href="https://www.instagram.com/deverdz?igsh=MXN3Ym1ueGFjODR2"  rel="noopener noreferrer">Suivez-nous sur Instagram</a></p>
       </div>
     </section>
