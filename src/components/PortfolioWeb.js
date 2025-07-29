@@ -4,11 +4,35 @@ import Pharmacy from "../images/pharmacy.jpg"
 import Sergec from "../images/sergec.PNG";
 import Zenbrush1 from "../images/zenbrush1.PNG"
 import Zenbrush2 from "../images/zenbrush2.PNG"
+import Gear1 from "../images/gear1.png"
+import Gear2 from "../images/gear2.png"
+import Fleur1 from "../images/fleur4.png"
+import Fleur2 from "../images/fleur2.png"
+import Immo1 from "../images/immo1.png"
+import Immo2 from "../images/immo2.png"
 import Coffee from "../images/coffee.PNG"
 import { Carousel } from 'react-responsive-carousel';
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // styles par défaut
 
 const projects = [
+  {
+    title: 'GearWear - Site concept -',
+    desc: 'Conception d’un site e-commerce fictif combinant style urbain et performance.',
+    images: [Gear1, Gear2],
+    link: 'https://deverduo.github.io/portSites/gearwear'
+  },
+  {
+    title: 'ImmoElan - Site concept -',
+    desc: 'Conception d’un site fictif pour un promoteur immobilier.',
+    images: [Immo1, Immo2],
+    link: 'https://deverduo.github.io/portSites/immo'
+  },
+  {
+    title: 'Fleaur de ville - Site concept -',
+    desc: 'Conception d’un site fictif pour un fleuriste.',
+    images: [Fleur1, Fleur2],
+    link: 'https://deverduo.github.io/portSites/'
+  },
   {
     title: 'ZenBrush',
     desc: 'Site pour un dentifrice innovant 100% algérien',
